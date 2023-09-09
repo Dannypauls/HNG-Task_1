@@ -10,4 +10,5 @@ const day = daysOfTheWeek[d]
 getDay.innerHTML=`<strong>Day : </strong> ${day}`
 
 const t = date.getTime()
+
 getTime.innerHTML=`<strong>Time : </strong> ${t}`
